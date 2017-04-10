@@ -1,3 +1,3 @@
 # ConwaysGameofLife-
 
-Implementation of Conways game of live in processing 
+Implementation of Conways game of life in processing 
